@@ -15,8 +15,10 @@ public class EjemploJavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print( " hola mundo DACJ " )
-                ;
+        System.out.print( " hola mundo DACJ " );
+        System.out.print("2025");
+        System.out.print("UPS");
+        
     }
     
 }
